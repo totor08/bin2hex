@@ -1,6 +1,6 @@
 ## Convert binary file into Intel HEX format file.
 
-usage: bin2hex [-h] [-l [LOADADDRESS]] [-s [STARTADDRESS]] [-w WIDTH] filename
+<p>usage: bin2hex [-h] [-l [LOADADDRESS]] [-s [STARTADDRESS]] [-w WIDTH] filename
 
 Convert a binary file into Intel HEX format
 
@@ -30,4 +30,4 @@ bin2hex.py t1.bin -l 1234 -s 5678 -w 6
 bin2hex t1.bin
 :100000003132333435363738393031323334350ADA
 :00000001FF
-
+</p>
