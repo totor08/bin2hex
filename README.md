@@ -1,6 +1,7 @@
 ## Convert binary file into Intel HEX format file.
 
-```usage: bin2hex [-h] [-l [LOADADDRESS]] [-s [STARTADDRESS]] [-w WIDTH] filename
+```
+usage: bin2hex [-h] [-l [LOADADDRESS]] [-s [STARTADDRESS]] [-w WIDTH] filename
 
 Convert a binary file into Intel HEX format
 
